@@ -1,4 +1,4 @@
-namespace java com.zbiljic.hello.service.core.thrift.v1
+namespace java com.zbiljic.todo.service.core.thrift.v1
 
 struct Todo {
     1: i32 id
