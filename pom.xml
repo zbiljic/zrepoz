@@ -11,6 +11,7 @@
   <name>zrepoz</name>
 
   <modules>
+    <module>hello</module>
   </modules>
 
 </project>
