@@ -1,6 +1,6 @@
-package com.zbiljic.todo.service;
+package com.zbiljic.todo.api;
 
-import com.zbiljic.todo.service.model.Todo;
+import com.zbiljic.todo.api.model.Todo;
 
 import java.util.List;
 

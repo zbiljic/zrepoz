@@ -1,4 +1,4 @@
-package com.zbiljic.hello.service;
+package com.zbiljic.hello.api;
 
 public interface HelloService {
 

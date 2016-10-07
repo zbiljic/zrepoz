@@ -1,4 +1,4 @@
-package com.zbiljic.todo.service.model;
+package com.zbiljic.todo.api.model;
 
 import java.io.Serializable;
 import java.util.Objects;
